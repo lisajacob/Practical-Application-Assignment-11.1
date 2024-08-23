@@ -64,7 +64,9 @@ Make and Model Reputation: Some makes and models retain their value better than 
 Popular Models: Certain types of vehicles, such as SUVs and trucks, may have higher demand in specific markets. Local preferences can significantly impact how quickly a car sells.
 - Toyota, Ford, sell at the highest volume in Los Angeles. 
 - Chevrolet, Nissan, BMW, Mercedes-Benz and Honda follow in at a lower volume tier
-Seasonal Trends: The time of year can affect demand. However we do not have granularity beyond a year. 
+Seasonal Trends: The time of year can affect demand. However we do not have granularity beyond a year.
+
+![type_la](https://github.com/user-attachments/assets/18a6350c-af06-48c1-b203-bb6b5da04182)
 
 5. Accident History: Vehicles with a clean accident history are more likely to sell at a higher price.
 
