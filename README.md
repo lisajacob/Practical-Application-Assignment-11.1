@@ -44,7 +44,7 @@ Several critical factors influence the sales of used cars, and understanding the
 2. Vehicle Condition
 Mileage: Cars with lower mileage tend to sell faster because they are perceived as having more life left. A vehicle in good condition will attract more buyers.
 
-![Condition for LA]([https://github.com/lisajacob/Practical-Application-Assignment-11.1/edit/main/README.md#:~:text=condition_la.-,jpg,-type_la.jpg?raw=true)
+![condition_la](https://github.com/user-attachments/assets/1fb6e218-3c03-4e9e-872e-8eac5ca74eca)
 
 3. Vehicle Age and Model
 Age: Newer used cars tend to sell faster as they often have updated features and lower wear and tear. However, older models that are well-maintained can still attract buyers.
