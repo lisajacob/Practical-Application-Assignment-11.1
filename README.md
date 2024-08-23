@@ -1,5 +1,7 @@
 # What Drives the Price of a car
 
+The Dataset has been filtered for the Los Angeles market. 
+
 ## Main factors affecting the sale of cars
 
 - Pricing
@@ -66,15 +68,15 @@ Popular Models: Certain types of vehicles, such as SUVs and trucks, may have hig
 - Chevrolet, Nissan, BMW, Mercedes-Benz and Honda follow in at a lower volume tier
 Seasonal Trends: The time of year can affect demand. However we do not have granularity beyond a year.
 
-![type_la](https://github.com/user-attachments/assets/18a6350c-af06-48c1-b203-bb6b5da04182)
-
 5. Accident History: Vehicles with a clean accident history are more likely to sell at a higher price.
 
 6. Fuel Efficiency
 Gas cars sell in higher volume in Los Angeles. However that trend is likely to change in california in the coming years due to emission standards. Electric cars with low emissions may be in higher demand. Diesel vehicles are priced higher as can be seen in the above analysis for trucks and pickups. 
 
 7. Location
-Certain vehicles sell better in specific regions based on climate and lifestyle preferences. Front Wheel Drives sell the most in Los Angeles,  and SUVs might sell better in rural or mountainous areas, while smaller, fuel-efficient cars are more popular in urban environments.
+Certain vehicles sell better in specific regions based on climate and lifestyle preferences. Front Wheel Drives sell the most in Los Angeles,  and SUVs might sell better in rural or mountainous areas, while smaller, fuel-efficient cars are more popular in urban environments. 
+
+![type_la](https://github.com/user-attachments/assets/18a6350c-af06-48c1-b203-bb6b5da04182)
 
 8. Paint Color
 White, Black, and Silver colored cars sell at the highest volume. Custom colors such as yellow, orange, brown are priced higher but sell at a lower volume. 
